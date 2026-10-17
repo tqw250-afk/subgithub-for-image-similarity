@@ -41,6 +41,12 @@ The recorded development results were:
 
 The audit result should not be interpreted as proof of universal 100% accuracy. The 95% Wilson lower bound from the 94-page audit was approximately 96.1%, and performance may be lower on documents from other periods, countries, printing processes, scan qualities, or page-layout conventions.
 
+## Runtime benchmark
+
+On the development computer, the original full benchmark processed **1,000 PDF files containing 3,106 pages in approximately 3 minutes 40 seconds** (about 3–4 minutes). This measurement covered PDF rendering, visual-feature extraction, and page prediction. It corresponds to approximately 0.071 seconds per page, or about 14 pages per second.
+
+Runtime will vary with CPU performance, storage speed, PDF complexity, page count, scan resolution, and background system load. The figure above is an observed benchmark on the development computer, not a guaranteed runtime on other machines.
+
 ## Method
 
 ### 1. PDF rendering
