@@ -1,0 +1,9 @@
+artifacts/
+benchmark_outputs/
+predictions/
+input_pdfs/*.pdf
+input_pdfs/**/*.pdf
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
