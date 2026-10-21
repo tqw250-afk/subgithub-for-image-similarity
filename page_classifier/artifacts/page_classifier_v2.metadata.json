@@ -1,0 +1,39 @@
+{
+  "model_version": "page-classifier-v2",
+  "feature_columns": [
+    "ink_ratio",
+    "component_count_per_mp",
+    "small_component_fraction",
+    "large_component_ink_fraction",
+    "wide_component_fraction",
+    "tall_component_fraction",
+    "long_line_ink_fraction",
+    "row_density_std",
+    "column_density_std"
+  ],
+  "class_mapping": {
+    "0": "text",
+    "1": "drawing"
+  },
+  "decision_threshold": 0.5,
+  "preprocessing": {
+    "render_dpi": 90,
+    "work_width": 600,
+    "ink_threshold": 225
+  },
+  "training": {
+    "csv_name": "enriched_training_cross_validation.csv",
+    "csv_sha256": "4da404578fef24ff7d5bad9730799ebd832e456e81b9ca8746b2238fb8aa80d8",
+    "rows": 181,
+    "pdfs": 89
+  },
+  "library_versions": {
+    "python": "3.13.7",
+    "numpy": "2.3.2",
+    "pandas": "2.3.2",
+    "opencv": "5.0.0",
+    "pymupdf": "1.28.2",
+    "scikit_learn": "1.7.2",
+    "joblib": "1.5.2"
+  }
+}
