@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+outputs/
+input_pdfs/*.pdf
+input_pdfs/**/*.pdf
+input_predictions/*.csv
+
+*.log
+.DS_Store
+Thumbs.db
