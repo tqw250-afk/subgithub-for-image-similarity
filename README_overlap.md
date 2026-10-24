@@ -45,3 +45,24 @@ python patent_cross_page_pipeline_v5_final.py --input-dir sketches_from_7000_pdf
 # 📊 Metrics Tracking
 
 The overall_summary.json file in the root output folder will automatically track execution speeds (in seconds and minutes) and provide a categorical breakdown of pipeline actions (e.g., pairs tested, edges accepted, rotated continuations, duplicates dropped, and standalone pages successfully preserved).
+
+
+
+{
+  "execution_metrics": {
+    "execution_time_seconds": 1957.87,
+    "execution_time_minutes": 32.63
+  },
+  "dataset_composition": {
+    "total_patents": 6670,
+    "total_extracted_pages": 12948
+  },
+  "overlap_results": {
+    "adjacent_pairs_tested": 6278,
+    "edge_overlap_accepted": 4236,
+    "vertical_rotated_continuations": 143,
+    "duplicates_dropped": 220,
+    "stitched_runs_created": 4018,
+    "standalone_pages_preserved": 4544
+  }
+}
