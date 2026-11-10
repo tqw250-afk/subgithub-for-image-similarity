@@ -1,0 +1,113 @@
+annotation_id,case_id,query_entry_id,candidate_entry_id,query_figure_id,candidate_figure_id,ai_relation,ai_reason
+ANN-0001,CASE-001,entry_103_FI648_SE7196,entry_2_FI239_SE7243,SE-FIG-0003,FI-FIG-0276,different_figure,Shaft silhouette is similar but housings and internal linkages differ.
+ANN-0002,CASE-001,entry_103_FI648_SE7196,entry_2_FI239_SE7243,SE-FIG-0008,FI-FIG-0323,different_figure,Roller linkage assembly differs from the elongated chain and slide.
+ANN-0003,CASE-001,entry_103_FI648_SE7196,entry_103_FI648_SE7196,SE-FIG-0002,FI-FIG-0003,related_figure,"Rail framework and levers correspond, but the crop includes different views."
+ANN-0004,CASE-001,entry_103_FI648_SE7196,entry_103_FI648_SE7196,SE-FIG-0004,FI-FIG-0003,same_figure,Rotated rail framework shows corresponding lever and crossbar layout; extra details differ.
+ANN-0005,CASE-001,entry_103_FI648_SE7196,entry_103_FI648_SE7196,SE-FIG-0003,FI-FIG-0009,uncertain,Possible complementary section of the shaft mechanism; direct correspondence is uncertain.
+ANN-0006,CASE-002,entry_132_FI762_SE8388,entry_123_FI736_SE8388,SE-FIG-0138,FI-FIG-0069,related_figure,Enclosed drum and shaft appear related but are shown in different sections.
+ANN-0007,CASE-002,entry_132_FI762_SE8388,entry_123_FI736_SE8388,SE-FIG-0139,FI-FIG-0069,same_figure,"Rotated drum cross-section matches shaft, tie rods, triangular supports and wood-grain feet."
+ANN-0008,CASE-002,entry_132_FI762_SE8388,entry_132_FI762_SE8388,SE-FIG-0139,FI-FIG-0088,same_figure,Same drum cross-section and supports after rotation.
+ANN-0009,CASE-002,entry_132_FI762_SE8388,entry_132_FI762_SE8388,SE-FIG-0138,FI-FIG-0088,related_figure,Drum assembly appears in a different sectional view.
+ANN-0010,CASE-002,entry_132_FI762_SE8388,entry_132_FI762_SE8388,SE-FIG-0139,FI-FIG-0090,related_figure,"Same drum family appears in a different section, with rails and bearing layout changed."
+ANN-0011,CASE-003,entry_168_FI868_SE9414,entry_73_FI551_SE6112,SE-FIG-0301,FI-FIG-0414,different_figure,Compact spring valve differs from a long braced reciprocating mechanism.
+ANN-0012,CASE-003,entry_168_FI868_SE9414,entry_73_FI551_SE6112,SE-FIG-0301,FI-FIG-0415,different_figure,"Different arrangement of actuator, braces and lower working components."
+ANN-0013,CASE-003,entry_168_FI868_SE9414,entry_168_FI868_SE9414,SE-FIG-0302,FI-FIG-0206,same_figure,Valve top view matches distinctive handles and shaft; left mounting plate is absent on the right.
+ANN-0014,CASE-003,entry_168_FI868_SE9414,entry_168_FI868_SE9414,SE-FIG-0301,FI-FIG-0207,same_figure,"Lever, spring, passage and lower threaded fitting correspond in the same section."
+ANN-0015,CASE-003,entry_168_FI868_SE9414,entry_168_FI868_SE9414,SE-FIG-0301,FI-FIG-0209,uncertain,Composite mechanism may show the same valve in context; enlarged source review needed.
+ANN-0016,CASE-004,entry_2_FI239_SE7243,entry_84_FI592_SE5047,SE-FIG-0397,FI-FIG-0442,different_figure,Circular bearing mechanism differs from a toothed blade and support.
+ANN-0017,CASE-004,entry_2_FI239_SE7243,entry_84_FI592_SE5047,SE-FIG-0398,FI-FIG-0442,different_figure,Bearing sections do not correspond to the saw blade assembly.
+ANN-0018,CASE-004,entry_2_FI239_SE7243,entry_2_FI239_SE7243,SE-FIG-0383,FI-FIG-0282,different_figure,Gear train and rectangular lever frame show different component layouts.
+ANN-0019,CASE-004,entry_2_FI239_SE7243,entry_2_FI239_SE7243,SE-FIG-0414,FI-FIG-0251,uncertain,Both are bracket sections but correspondence of fasteners and pivots is unclear.
+ANN-0020,CASE-004,entry_2_FI239_SE7243,entry_2_FI239_SE7243,SE-FIG-0416,FI-FIG-0281,different_figure,Eye bracket and bearing support have different internal and mounting geometry.
+ANN-0021,CASE-005,entry_35_FI398_SE3003,entry_114_FI708_SE7538,SE-FIG-0428,FI-FIG-0050,different_figure,Wheel frame and chain-driven section have different transmission layouts.
+ANN-0022,CASE-005,entry_35_FI398_SE3003,entry_114_FI708_SE7538,SE-FIG-0426,FI-FIG-0050,different_figure,Parallel-bar assembly differs from the chain and cylinder assembly.
+ANN-0023,CASE-005,entry_35_FI398_SE3003,entry_35_FI398_SE3003,SE-FIG-0427,FI-FIG-0329,same_figure,"Rotation aligns the stepped parallel members, bearings and bent pipe."
+ANN-0024,CASE-005,entry_35_FI398_SE3003,entry_35_FI398_SE3003,SE-FIG-0425,FI-FIG-0329,related_figure,Parallel working members correspond but one image shows the installation and another the assembly view.
+ANN-0025,CASE-005,entry_35_FI398_SE3003,entry_35_FI398_SE3003,SE-FIG-0424,FI-FIG-0329,uncertain,Wheel-driven installation may contain the bar assembly; direct part correspondence needs review.
+ANN-0026,CASE-006,entry_70_FI548_SE5516,entry_29_FI365_SE3511,SE-FIG-0520,FI-FIG-0242,different_figure,Perforated circular plate differs from a slotted grate in a round housing.
+ANN-0027,CASE-006,entry_70_FI548_SE5516,entry_29_FI365_SE3511,SE-FIG-0520,FI-FIG-0241,different_figure,Circular perforations do not match the comb-shaped component.
+ANN-0028,CASE-006,entry_70_FI548_SE5516,entry_70_FI548_SE5516,SE-FIG-0519,FI-FIG-0398,related_figure,"Circular chamber and tapered openings are related, but internal plate and opening counts differ."
+ANN-0029,CASE-006,entry_70_FI548_SE5516,entry_70_FI548_SE5516,SE-FIG-0518,FI-FIG-0401,related_figure,Conical chamber and central shaft correspond; the actuation linkage differs.
+ANN-0030,CASE-006,entry_70_FI548_SE5516,entry_70_FI548_SE5516,SE-FIG-0522,FI-FIG-0400,uncertain,Partial plan arc may relate to chamber section; evidence is limited.
+ANN-0031,CASE-007,entry_165_FI858_SE7910,entry_108_FI674_SE7374,SE-FIG-0292,FI-FIG-0025,different_figure,Spring-loaded valve section differs from a pulley and bearing section.
+ANN-0032,CASE-007,entry_165_FI858_SE7910,entry_108_FI674_SE7374,SE-FIG-0292,FI-FIG-0023,different_figure,Internal spring and valve passages differ from the bearing and wheel geometry.
+ANN-0033,CASE-007,entry_165_FI858_SE7910,entry_165_FI858_SE7910,SE-FIG-0292,FI-FIG-0197,same_figure,"Valve body, passages and axial spring correspond; upper cap differs."
+ANN-0034,CASE-008,entry_24_FI345_SE1878,entry_27_FI355_SE2426,SE-FIG-0351,FI-FIG-0226,different_figure,Round rotor in liquid differs from opposed chambers and a rounded housing.
+ANN-0035,CASE-008,entry_24_FI345_SE1878,entry_27_FI355_SE2426,SE-FIG-0352,FI-FIG-0225,different_figure,Multi-disc rotor and side chamber differ from the tall vane chamber.
+ANN-0036,CASE-008,entry_24_FI345_SE1878,entry_24_FI345_SE1878,SE-FIG-0353,FI-FIG-0216,related_figure,Multi-disc chamber is related but lower views show different rotor geometry.
+ANN-0037,CASE-008,entry_24_FI345_SE1878,entry_24_FI345_SE1878,SE-FIG-0351,FI-FIG-0216,uncertain,Liquid chamber appears related; disk rotor differs from crossed vanes.
+ANN-0038,CASE-008,entry_24_FI345_SE1878,entry_24_FI345_SE1878,SE-FIG-0352,FI-FIG-0216,related_figure,"Stacked rotor section corresponds to part of the composite image, with different housing extent."
+ANN-0039,CASE-009,entry_43_FI431_SE2331,entry_120_FI730_SE8014,SE-FIG-0444,FI-FIG-0061,different_figure,Curved plates and fastening assembly differ from the rectangular machine frame.
+ANN-0040,CASE-009,entry_43_FI431_SE2331,entry_120_FI730_SE8014,SE-FIG-0444,FI-FIG-0063,different_figure,Plate assembly differs from a long screw-operated mechanism.
+ANN-0041,CASE-009,entry_43_FI431_SE2331,entry_43_FI431_SE2331,SE-FIG-0444,FI-FIG-0339,uncertain,Curved springs and plates may correspond in different views; details are faint.
+ANN-0042,CASE-009,entry_43_FI431_SE2331,entry_43_FI431_SE2331,SE-FIG-0444,FI-FIG-0340,related_figure,Curved plate construction appears as a simplified end view on the right.
+ANN-0043,CASE-009,entry_43_FI431_SE2331,entry_43_FI431_SE2331,SE-FIG-0443,FI-FIG-0340,same_figure,"Curved spring, central fastener and rounded outer shell correspond after rotation."
+ANN-0044,CASE-010,entry_56_FI467_SE4489,entry_26_FI349_SE1742,SE-FIG-0486,FI-FIG-0220,different_figure,Wedge compartment plan differs from the rail-mounted rectangular apparatus.
+ANN-0045,CASE-010,entry_56_FI467_SE4489,entry_26_FI349_SE1742,SE-FIG-0486,FI-FIG-0221,different_figure,Internal wedge geometry differs from the tall gridded chamber.
+ANN-0046,CASE-010,entry_56_FI467_SE4489,entry_56_FI467_SE4489,SE-FIG-0486,FI-FIG-0368,same_figure,Faint composite sheet includes the same rectangular wedge plan; extra views are present.
+ANN-0047,CASE-010,entry_56_FI467_SE4489,entry_56_FI467_SE4489,SE-FIG-0486,FI-FIG-0366,related_figure,Plan and side sections show the triangular compartment from different views.
+ANN-0048,CASE-010,entry_56_FI467_SE4489,entry_56_FI467_SE4489,SE-FIG-0487,FI-FIG-0366,related_figure,"Diagonal partition and large chamber correspond, but section details and added view differ."
+ANN-0049,CASE-011,entry_61_FI512_SE5206,entry_83_FI587_SE5497,SE-FIG-0490,FI-FIG-0438,different_figure,Central grate differs from the semicircular cutout and central hub.
+ANN-0050,CASE-011,entry_61_FI512_SE5206,entry_83_FI587_SE5497,SE-FIG-0490,FI-FIG-0439,different_figure,Grate disk differs from the concentric vessel with handles and rim fittings.
+ANN-0051,CASE-011,entry_61_FI512_SE5206,entry_61_FI512_SE5206,SE-FIG-0489,FI-FIG-0371,same_figure,Composite sheet includes the same tapered vessel section with perforated rim and bottom grate.
+ANN-0052,CASE-011,entry_61_FI512_SE5206,entry_61_FI512_SE5206,SE-FIG-0490,FI-FIG-0370,same_figure,Concentric rim and rounded rectangular slotted grate match after rotation.
+ANN-0053,CASE-011,entry_61_FI512_SE5206,entry_61_FI512_SE5206,SE-FIG-0491,FI-FIG-0371,same_figure,Composite sheet includes the corresponding side section of the tapered vessel.
+ANN-0054,CASE-012,entry_114_FI708_SE7538,entry_150_FI819_SE10049,SE-FIG-0047,FI-FIG-0140,different_figure,Opposed spring and roller sections differ from the gear-driven bearing assembly.
+ANN-0055,CASE-012,entry_114_FI708_SE7538,entry_150_FI819_SE10049,SE-FIG-0046,FI-FIG-0140,different_figure,Chain-driven spring mechanism differs from the toothed central gear housing.
+ANN-0056,CASE-012,entry_114_FI708_SE7538,entry_114_FI708_SE7538,SE-FIG-0050,FI-FIG-0053,related_figure,"Symmetric roller assembly corresponds, but internal springs are visible only in the right section."
+ANN-0057,CASE-012,entry_114_FI708_SE7538,entry_114_FI708_SE7538,SE-FIG-0050,FI-FIG-0052,related_figure,Same general opposed-roller housing in complementary section; internal geometry differs.
+ANN-0058,CASE-012,entry_114_FI708_SE7538,entry_114_FI708_SE7538,SE-FIG-0046,FI-FIG-0050,related_figure,Chain drive and paired working elements correspond; the right includes additional installation detail.
+ANN-0059,CASE-013,entry_167_FI866_SE8955,entry_120_FI730_SE8014,SE-FIG-0299,FI-FIG-0063,different_figure,Crank-driven drum and inclined screw mechanism have different structures.
+ANN-0060,CASE-013,entry_167_FI866_SE8955,entry_120_FI730_SE8014,SE-FIG-0299,FI-FIG-0060,different_figure,Drum and crank assembly differs from the long horizontal machine bed.
+ANN-0061,CASE-013,entry_167_FI866_SE8955,entry_167_FI866_SE8955,SE-FIG-0298,FI-FIG-0205,same_figure,"Rotation aligns the wheel spokes, tapered slatted drum, shaft and frame."
+ANN-0062,CASE-013,entry_167_FI866_SE8955,entry_167_FI866_SE8955,SE-FIG-0299,FI-FIG-0205,related_figure,"Side and front views share the tapered slatted drum and frame, with drive shown differently."
+ANN-0063,CASE-013,entry_167_FI866_SE8955,entry_167_FI866_SE8955,SE-FIG-0297,FI-FIG-0205,uncertain,Circular spring detail cannot be confidently located in the wheel-and-drum overview.
+ANN-0064,CASE-014,entry_14_FI282_SE683,entry_2_FI239_SE7243,SE-FIG-0203,FI-FIG-0278,different_figure,Supported roller assembly differs from the screw-operated clamp.
+ANN-0065,CASE-014,entry_14_FI282_SE683,entry_2_FI239_SE7243,SE-FIG-0203,FI-FIG-0282,different_figure,Roller frame and sliding machine bed have different linkages and supports.
+ANN-0066,CASE-014,entry_14_FI282_SE683,entry_14_FI282_SE683,SE-FIG-0210,FI-FIG-0132,uncertain,Long shaft and short joint detail provide insufficient shared geometry to establish correspondence.
+ANN-0067,CASE-014,entry_14_FI282_SE683,entry_14_FI282_SE683,SE-FIG-0205,FI-FIG-0128,uncertain,Plain outer housing and spring joint section lack enough visible corresponding detail.
+ANN-0068,CASE-014,entry_14_FI282_SE683,entry_14_FI282_SE683,SE-FIG-0205,FI-FIG-0132,uncertain,Plain housing and pivoted joint may be different components; correspondence is not visually established.
+ANN-0069,CASE-015,entry_29_FI365_SE3511,entry_120_FI730_SE8014,SE-FIG-0372,FI-FIG-0063,different_figure,Chamber with a hinged side plate differs from an inclined screw-driven machine.
+ANN-0070,CASE-015,entry_29_FI365_SE3511,entry_120_FI730_SE8014,SE-FIG-0372,FI-FIG-0061,different_figure,Chamber section and rectangular machine frame have different component layouts.
+ANN-0071,CASE-015,entry_29_FI365_SE3511,entry_29_FI365_SE3511,SE-FIG-0371,FI-FIG-0242,related_figure,"Circular housing and central grate correspond, but wall sections and grate arrangement differ."
+ANN-0072,CASE-015,entry_29_FI365_SE3511,entry_29_FI365_SE3511,SE-FIG-0371,FI-FIG-0241,related_figure,Isolated grate resembles the component inside the circular housing after rotation.
+ANN-0073,CASE-015,entry_29_FI365_SE3511,entry_29_FI365_SE3511,SE-FIG-0371,FI-FIG-0236,uncertain,"Round housing is shared, but internal grate and smooth insert differ; correspondence is unclear."
+ANN-0074,CASE-016,entry_72_FI550_SE4856,entry_81_FI583_SE5858,SE-FIG-0530,FI-FIG-0434,different_figure,Slender folding member differs from a pulley-driven sliding mechanism.
+ANN-0075,CASE-016,entry_72_FI550_SE4856,entry_81_FI583_SE5858,SE-FIG-0534,FI-FIG-0434,different_figure,Parallel folding members do not match the pulley and long rod mechanism.
+ANN-0076,CASE-016,entry_72_FI550_SE4856,entry_72_FI550_SE4856,SE-FIG-0523,FI-FIG-0404,related_figure,Repeated crossing braces correspond to the folding support shown in perspective.
+ANN-0077,CASE-016,entry_72_FI550_SE4856,entry_72_FI550_SE4856,SE-FIG-0524,FI-FIG-0404,related_figure,Side elevation and perspective show related repeated scissor supports.
+ANN-0078,CASE-016,entry_72_FI550_SE4856,entry_72_FI550_SE4856,SE-FIG-0532,FI-FIG-0402,uncertain,"Folded rails and clustered hinges may be complementary views, but individual parts cannot be matched."
+ANN-0079,CASE-017,entry_156_FI838_SE8653,entry_2_FI239_SE7243,SE-FIG-0244,FI-FIG-0291,different_figure,Forked wheel linkage differs from the long machine-bed section.
+ANN-0080,CASE-017,entry_156_FI838_SE8653,entry_2_FI239_SE7243,SE-FIG-0244,FI-FIG-0279,different_figure,Fork and gear assembly differs from the pair of curved brackets.
+ANN-0081,CASE-017,entry_156_FI838_SE8653,entry_156_FI838_SE8653,SE-FIG-0241,FI-FIG-0168,same_figure,"Rotated bicycle frame, rear gear and lever drive match; part of the front wheel is missing on the left."
+ANN-0082,CASE-017,entry_156_FI838_SE8653,entry_156_FI838_SE8653,SE-FIG-0243,FI-FIG-0168,same_figure,Rear wheel and lever linkage match a subset of the complete bicycle drawing after rotation.
+ANN-0083,CASE-017,entry_156_FI838_SE8653,entry_156_FI838_SE8653,SE-FIG-0244,FI-FIG-0167,same_figure,"Rotation aligns the fork, elongated central member, gear teeth and paired end fittings."
+ANN-0084,CASE-018,entry_94_FI624_SE8169,entry_2_FI239_SE7243,SE-FIG-0614,FI-FIG-0321,different_figure,Dense parallel tube bundle differs from the sparse long-rod mechanism.
+ANN-0085,CASE-018,entry_94_FI624_SE8169,entry_2_FI239_SE7243,SE-FIG-0616,FI-FIG-0282,different_figure,Chamber end elevation differs from the sliding machine bed and upper linkage.
+ANN-0086,CASE-018,entry_94_FI624_SE8169,entry_94_FI624_SE8169,SE-FIG-0617,FI-FIG-0469,same_figure,"Rotation aligns the square chamber, concentric rings, central rectangle and adjoining duct."
+ANN-0087,CASE-018,entry_94_FI624_SE8169,entry_94_FI624_SE8169,SE-FIG-0614,FI-FIG-0471,related_figure,Original-resolution review shows a plan view versus a longitudinal section of the same tube bundle and chamber.
+ANN-0088,CASE-018,entry_94_FI624_SE8169,entry_94_FI624_SE8169,SE-FIG-0613,FI-FIG-0471,same_figure,"Original-resolution review confirms the same longitudinal section, tube bundle, shaft and end chamber within the rotated composite."
+ANN-0089,CASE-019,entry_117_FI724_SE8546,entry_82_FI586_SE5397,SE-FIG-0061,FI-FIG-0436,different_figure,Slender bowed member with central attachments differs from the repeated-support rail assembly.
+ANN-0090,CASE-019,entry_117_FI724_SE8546,entry_82_FI586_SE5397,SE-FIG-0061,FI-FIG-0437,different_figure,Central fittings on a bowed member differ from the long straight rail and distributed supports.
+ANN-0091,CASE-019,entry_117_FI724_SE8546,entry_117_FI724_SE8546,SE-FIG-0061,FI-FIG-0059,same_figure,Candidate includes a corresponding bowed member with matching central straps and labels; extra view is present.
+ANN-0092,CASE-019,entry_117_FI724_SE8546,entry_117_FI724_SE8546,SE-FIG-0060,FI-FIG-0059,related_figure,Top detail and side views share the central strap and attachment arrangement.
+ANN-0093,CASE-020,entry_73_FI551_SE6112,entry_2_FI239_SE7243,SE-FIG-0538,FI-FIG-0276,different_figure,Cross-pin fork joint differs from the hooked screw mechanism.
+ANN-0094,CASE-020,entry_73_FI551_SE6112,entry_2_FI239_SE7243,SE-FIG-0538,FI-FIG-0254,different_figure,Forked joint and block-mounted linkage have different geometry.
+ANN-0095,CASE-020,entry_73_FI551_SE6112,entry_73_FI551_SE6112,SE-FIG-0538,FI-FIG-0418,different_figure,Forked shaft joint does not correspond visually to the paired pointed blades.
+ANN-0096,CASE-020,entry_73_FI551_SE6112,entry_73_FI551_SE6112,SE-FIG-0538,FI-FIG-0406,uncertain,Shaft joint and complex hub section may be different components; direct correspondence is not established.
+ANN-0097,CASE-020,entry_73_FI551_SE6112,entry_73_FI551_SE6112,SE-FIG-0538,FI-FIG-0407,different_figure,Simple forked joint differs from the toothed wheel and paired curved levers.
+ANN-0098,CASE-021,entry_82_FI586_SE5397,entry_81_FI583_SE5858,SE-FIG-0570,FI-FIG-0434,different_figure,Low circular drive in a rail differs from the raised pulley and sliding carriage.
+ANN-0099,CASE-021,entry_82_FI586_SE5397,entry_81_FI583_SE5858,SE-FIG-0568,FI-FIG-0434,different_figure,Repeated rail supports and levers differ from the pulley carriage.
+ANN-0100,CASE-021,entry_82_FI586_SE5397,entry_82_FI586_SE5397,SE-FIG-0574,FI-FIG-0435,same_figure,"Paired rollers, bearing outlines and nearby circular elements match a portion of the rotated composite drawing."
+ANN-0101,CASE-021,entry_82_FI586_SE5397,entry_82_FI586_SE5397,SE-FIG-0573,FI-FIG-0435,related_figure,Rail-mounted lever assembly appears related to a detail in the composite image; fine correspondence needs review.
+ANN-0102,CASE-021,entry_82_FI586_SE5397,entry_82_FI586_SE5397,SE-FIG-0569,FI-FIG-0435,related_figure,Repeated articulated supports and connecting bar correspond to part of the overall rail installation.
+ANN-0103,CASE-022,entry_84_FI592_SE5047,entry_2_FI239_SE7243,SE-FIG-0577,FI-FIG-0276,different_figure,Perforated bar and transverse handle differ from a hooked screw device.
+ANN-0104,CASE-022,entry_84_FI592_SE5047,entry_2_FI239_SE7243,SE-FIG-0577,FI-FIG-0295,different_figure,Perforated sliding bar differs from the threaded block and projecting handle.
+ANN-0105,CASE-022,entry_84_FI592_SE5047,entry_84_FI592_SE5047,SE-FIG-0578,FI-FIG-0442,same_figure,Blade teeth and perforated attachment match after rotation; the query excludes most of the handle.
+ANN-0106,CASE-022,entry_84_FI592_SE5047,entry_84_FI592_SE5047,SE-FIG-0577,FI-FIG-0442,same_figure,"Perforated bar, flanged guide and transverse handle match; the candidate additionally shows the blade."
+ANN-0107,CASE-022,entry_84_FI592_SE5047,entry_84_FI592_SE5047,SE-FIG-0578,FI-FIG-0441,uncertain,"Blade and narrow edge view may correspond, but small details cannot be verified in the sheet."
+ANN-0108,CASE-023,entry_64_FI519_SE5014,entry_2_FI239_SE7243,SE-FIG-0498,FI-FIG-0312,different_figure,Gear and spindle section differs from the multi-pulley linkage diagrams.
+ANN-0109,CASE-023,entry_64_FI519_SE5014,entry_2_FI239_SE7243,SE-FIG-0498,FI-FIG-0299,different_figure,Gear and spindle arrangement differs from the long pivoted linkage.
+ANN-0110,CASE-023,entry_64_FI519_SE5014,entry_64_FI519_SE5014,SE-FIG-0501,FI-FIG-0375,same_figure,"Composite contains the corresponding wheel, eccentric circles and connecting arm; faint lines need source review."
+ANN-0111,CASE-023,entry_64_FI519_SE5014,entry_64_FI519_SE5014,SE-FIG-0500,FI-FIG-0375,same_figure,Composite contains the corresponding wheel and eccentric linkage in a second position.
+ANN-0112,CASE-023,entry_64_FI519_SE5014,entry_64_FI519_SE5014,SE-FIG-0498,FI-FIG-0375,uncertain,"Spindle section may relate to the wheel and eccentric views, but faint lines limit verification."
